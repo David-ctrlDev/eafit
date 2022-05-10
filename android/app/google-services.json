@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599458026191",
+    "project_id": "testflutter-20bee",
+    "storage_bucket": "testflutter-20bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599458026191:android:0141eefa6e7a36add4ddba",
+        "android_client_info": {
+          "package_name": "com.example.datapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599458026191-cc951t19inhdp38v5iuql6f5lr1c8cmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAknnNSuTqGzGZ9I6JSsk9IZMQHCxi5bqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599458026191-cc951t19inhdp38v5iuql6f5lr1c8cmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
